@@ -1,0 +1,9 @@
+valid_df =
+training_df =
+
+training_x = down to the explanatory variables....to pandas at the end
+training_y = down to the explanatory variables....to pandas at the end
+
+train...test...split
+
+use 'class_weight': [None,"balanced"] want to use balance.
